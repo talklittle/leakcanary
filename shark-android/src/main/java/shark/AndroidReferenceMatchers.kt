@@ -377,7 +377,7 @@ enum class AndroidReferenceMatchers {
           + " with the returned future to to get the result and correctly start an activity"
           + " when it's available."
       ) {
-        sdkInt <= 27
+        sdkInt <= 31
       }
     }
   },
